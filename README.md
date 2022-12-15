@@ -1,4 +1,4 @@
 
-Nick Jelicic, Researcher @ Dialogic and Machine Learning enthousiast. 
+Nick Jelicic 
 
-Contact: jelicic@dialogic.nl
+Contact: nick.jelicic@eur.nl
